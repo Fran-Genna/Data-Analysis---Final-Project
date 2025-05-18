@@ -5,8 +5,8 @@ This project aims to analyze, segment and interpret data from an online platform
 The goal is to identify behavior patterns among seller users, evaluate performance by category and platform, and propose growth and optimization strategies based on concrete insights.
 
 🔧 Technologies used
-`Python:` for data cleaning and visual exploration (pandas, matplotlib, seaborn, etc.)
-`SQL (PostgreSQL):` for data extraction and Manipulation
+`Python:` for data cleaning and visual exploration (pandas, matplotlib, seaborn, etc.).   
+`SQL (PostgreSQL):` for data extraction and Manipulation.   
 `Tableau:` for interactive visualization and the construction of 3 strategic dashboards
 
 
